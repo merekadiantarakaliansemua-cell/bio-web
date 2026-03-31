@@ -1,0 +1,39 @@
+body {
+  background: #aebbd1;
+  font-family: Arial;
+}
+
+.container {
+  background: white;
+  width: 800px;
+  margin: 50px auto;
+  border-radius: 20px;
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+}
+
+.left {
+  width: 40%;
+  text-align: center;
+}
+
+.right {
+  width: 60%;
+}
+
+.flower {
+  width: 100px;
+}
+
+h1 {
+  color: #6a85b6;
+}
+
+h2 {
+  color: #6a85b6;
+}
+
+p {
+  font-size: 14px;
+}
