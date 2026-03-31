@@ -1,0 +1,64 @@
+body {
+  background: #aebbd1;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.card {
+  background: #f4f4f4;
+  width: 850px;
+  margin: 50px auto;
+  padding: 40px;
+  border-radius: 30px;
+  display: flex;
+  gap: 40px;
+}
+
+/* KIRI */
+.left {
+  width: 40%;
+  text-align: center;
+}
+
+.flower {
+  width: 140px;
+}
+
+h1 {
+  font-family: 'Playfair Display', serif;
+  color: #6f8cc7;
+  font-size: 42px;
+  margin: 10px 0;
+}
+
+.sub {
+  font-size: 14px;
+  color: #333;
+}
+
+.icons {
+  margin: 10px 0;
+  color: #6f8cc7;
+}
+
+/* KANAN */
+.right {
+  width: 60%;
+}
+
+/* SECTION */
+.section {
+  margin-bottom: 25px;
+}
+
+h2 {
+  font-family: 'Playfair Display', serif;
+  color: #8aa6d9;
+  font-size: 20px;
+  margin-bottom: 5px;
+}
+
+p {
+  font-size: 14px;
+  line-height: 1.6;
+  color: #222;
+}
